@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luis and I am from Atibaia/SP/Brasil 🦜
 - 👨‍👩‍👧‍👦 I'm Lilo & Caki's smitten dad 🍼
 - 🍉 Love fruits, hate insects 🦗
-- 🫘 Java developer on free time, but not a passionate one (no, I will not explain you how a hashmap is implemented) 🎨
+- 🫘 Java developer on free time, but not a passionate one (no, I will not explain you how a Hashmap is implemented) 🎨
 - ⛱ Enthusiast of 'desacelêro' - Portuguese word that refers to slowing down and taking it easy (an unhurried man) 🪂
 
 - 📚 I’m interested in many tech stuff, but currently I am (re)finding myself learning about human sciences (sociology, filosophy and brazillian history) and trying hard to put many of this in the way I see work...
