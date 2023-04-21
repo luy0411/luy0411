@@ -8,7 +8,7 @@
 
 - 🖋 I have also spent some time writing more than code (ptbr only until now): https://medium.com/@lhsantos89
 
-- 📫 How to reach me, take this shortcut: https://www.linkedin.com/in/lhsantos89/
+- 📫 To reach me, take this shortcut and send me a message: https://www.linkedin.com/in/lhsantos89/
 
 <!---
 luy0411/luy0411 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
