@@ -4,7 +4,7 @@
 - 🫘 Java developer on free time, but not a passionate one (no, I will not explain you how a Hashmap is implemented) 🎨
 - ⛱ Enthusiast of 'desacelêro' - Portuguese word that refers to slowing down and taking it easy (an unhurried man) 🪂
 
-- 📚 I’m interested in many tech stuff, but currently I am (re)finding myself learning about human sciences (sociology, philosophy and brazillian history) and I am trying hard to put many of this in the way I behave and see work...
+- 📚 I’m interested in many tech stuff, but currently I am (re)finding myself learning more about human sciences (sociology, philosophy, history, psychology) and I am trying hard to put many of this in the way I behave and see work, specially when acting as a team lead...
 
 - 🖋 I have also spent some time writing more than code (ptbr only until now): https://medium.com/@lhsantos89
 
