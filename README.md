@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luis and I am from Atibaia/SP/Brasil 🦜
+- 👋 Hi, I’m @Luis and I am from São Paulo/SP/Brasil 🦜
 - 👨‍👩‍👧‍👦 I'm Lilo & Caki's smitten dad 🍼
 - 🍉 Love fruits, hate insects 🦗
 - 🫘 Java developer on free time, but not a passionate one (no, I will not explain you how a Hashmap is implemented) 🎨
