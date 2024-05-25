@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Luis and I am from São Paulo/SP/Brasil 🦜
-- 👨‍👩‍👧‍👦 I'm Lilo & Caki's smitten dad 🍼
+- 👨‍👩‍👧‍👦 I'm Lilo's, Caki's and Oli's smitten dad 🍼
 - 🍉 Love fruits, hate insects 🦗
 - 🫘 Java developer on free time, but not a passionate one (no, I will not explain you how a Hashmap is implemented) 🎨
 - ⛱ Enthusiast of 'desacelêro' - Portuguese word that refers to slowing down and taking it easy (an unhurried man) 🪂
